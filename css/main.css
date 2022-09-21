@@ -1,0 +1,20 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.subtitle{
+    font-weight: bold;
+    color: rgba(120, 84, 54,47);
+    color: rgba(1, 40, 176,69);
+}
+
+.programming-languages i{
+    font-size: 6em;
+}
+.body {
+    background-color: rgba(65, 133, 145,57);
+}
+col ul li {
+    color: rgba(120, 84, 54,47);
+}
